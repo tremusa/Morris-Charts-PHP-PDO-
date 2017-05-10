@@ -99,16 +99,16 @@ the response in the browser.
 
 ### Prerequisites
 
-`This project uses MorrisChart.js. The full download can be obtained
-from`[Github Here](http://morrisjs.github.io/morris.js/)`. The code uses`[PHP
-5.6 and higher](http://php.net/downloads.php)`.`
+`This project uses MorrisChart.js. The full download can be obtained from
+`[Github Here](http://morrisjs.github.io/morris.js/)`. The code uses `[PHP 5.6
+and higher](http://php.net/downloads.php)`.`
 
 Author
 ------
 
-**Greg Bayes** - [Bayesean Blog](http://www.bayeseanblog.com).
+**Greg Bayes** - [Bayesean Blog](https://www.bayeseanblog.com/).
 
-www.bayeseanblog.com.
+https://www.bayeseanblog.com.
 
 License
 -------
