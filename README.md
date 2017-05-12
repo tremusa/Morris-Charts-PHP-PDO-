@@ -18,7 +18,7 @@ Two methods are found in the source code.
 
 View Example
 ------------
-[View Working Example](https://www.bayeseanblog.com/blog/public/demo/uploads/index.php)
+[View Working Example](https://www.bayeseanblog.com/blog/public/demo/morris/jsonchart.php)
 
 Getting Started
 ---------------
