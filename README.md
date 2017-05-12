@@ -15,9 +15,10 @@ Two methods are found in the source code.
     Connection. This provides a simple solution of extracting data from the
     server and efficiently populating the JavaScript / JQuery graph in the
     browser using Json.
-View Working Example
---------------------
-[View Example](https://www.bayeseanblog.com/blog/public/demo/uploads/index.php)
+
+View Example
+------------
+[View Working Example](https://www.bayeseanblog.com/blog/public/demo/uploads/index.php)
 
 Getting Started
 ---------------
